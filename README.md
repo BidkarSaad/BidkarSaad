@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BidkarSaad
 - 👀 I’m interested in Coding & learning new Technologies.
 - 🌱 I’m currently learning DevOps & Edge Computing
-- 💞️ I’m looking to collaborate on Non-profit organization.
+- 💞️ I’m looking to collaborate with Non-profit organization.
 - 📫 How to reach me saad.bidkar@gmail.com
 
 <!---
